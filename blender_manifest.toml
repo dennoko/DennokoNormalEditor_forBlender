@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "dennoko_normal_editor"
+version = "1.0.0"
+name = "Dennoko Normal Editor"
+tagline = "Non-destructive proportional custom normal editor with modifier storage"
+maintainer = "dennoko <sd514dennoko@gmail.com>"
+type = "add-on"
+
+website = "https://github.com/dennoko"
+
+tags = ["Mesh", "Modeling", "Normals"]
+
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
